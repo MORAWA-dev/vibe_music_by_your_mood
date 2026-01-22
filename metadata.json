@@ -1,0 +1,7 @@
+{
+  "name": "The Vibe Sommelier",
+  "description": "Snap a photo of your surroundings and let the AI Sommelier curate a custom aesthetic 'tasting note', color palette, and the perfect music vibe for the moment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
